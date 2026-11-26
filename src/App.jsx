@@ -238,8 +238,8 @@ export default function App() {
           </div>
 
           <h1 className="hero-title">
-            데이터의 숨은 잠재력을 깨우는 <br className="hero-br" />
-            <span className="gradient-text">Next-Gen AI 데이터 솔루션</span>
+            미래를 선도하는 <br className="hidden md:inline" />
+            <span className="gradient-text">차세대 AI 데이터 플랫폼</span>
           </h1>
 
           <p className="hero-subtitle">
